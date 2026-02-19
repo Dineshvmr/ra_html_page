@@ -1,8 +1,31 @@
-# RA Static Page
+# RA Static HTML Pages
 
-Static HTML pages and assets for RA-related content.
+This repository hosts static HTML pages and assets for RA (Riskilla Advisors?) related content. These pages are designed to be served as a static website.
 
-## Files
-- `index.html`: Main index page
-- `investor_charter.html`: Investor charter page
-- `riskilla_qr_code.png`: QR code image for Riskilla
+## Pages
+- **`index.html`**: The main landing page providing an overview of RA services.
+- **`investor_charter.html`**: Detailed investor charter document outlining commitments and disclosures.
+
+## Assets
+- **`riskilla_qr_code.png`**: QR code image, likely for scanning to access Riskilla resources or app.
+
+## How to Run Locally
+1. Clone or download the repository.
+2. Open `index.html` in a web browser.
+3. Or serve with a static server:
+   ```
+   npx serve .
+   ```
+
+## Deployment
+- Host on GitHub Pages, Netlify, Vercel, or any static hosting service.
+- No build step required.
+
+## Technologies
+- Pure HTML/CSS (no JavaScript frameworks).
+
+## License
+MIT License (or specify as needed).
+
+---
+*Generated/Updated on $(date)*
