@@ -1,6 +1,6 @@
 # RA Static HTML Pages
 
-This repository hosts static HTML pages and assets for RA (Riskilla Advisors?) related content. These pages are designed to be served as a static website.
+This repository hosts static HTML pages and assets for RA (Riskilla Advisor) related content. These pages are designed to be served as a static website.
 
 ## Pages
 - **`index.html`**: The main landing page providing an overview of RA services.
